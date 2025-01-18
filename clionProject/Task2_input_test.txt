@@ -1,0 +1,133 @@
+ CMP2804M Team Software Engineering
+
+Team Number: 27
+
+Proposal Title
+
+Josh Hall, Luca Catherall-Davis, Emmanuel Igwegbe, Mitchell Jenkins, Thomas Hunt
+
+University of Lincoln, School of Computer Science
+
+27815511@students.lincoln.ac.uk, 27919727@students.lincoln.ac.uk, 27729531@students.lincoln.ac.uk, 27607763@students.lincoln.ac.uk, 28043368@students.lincoln.ac.uk
+
+1	Project Proposal
+
+Our project involves the development of an application tailored to soft-fruit farm management. The application is intended to enable farm managers to assign tasks to workers across different fields and monitor their progress. Our application will use a map-based interface so that managers can easily visualise the tasks assigned to their workers and monitor progress of each field, whether this is growth, harvesting, or irrigation. The purpose of this application is to unify task management on farms, this would simplify farm management as factors such as what tasks need performing on what field, what tasks the workers are trained in, what they are assigned to and what field they are currently in will all be visible by logging into one comprehensive system. This addresses limitations of the current system many farms have where this is all separate.
+
+1.1	Aims and Objectives
+
+Develop our skills of web development and database management to create a web application that allows the users to manage their farms through a user-interface on the website with a database that will hold information about the farms users, different crops, and their needs.
+
+
+
+Objective 1 – Create a database that allows the user to view what is growing on each farm, how long they take to grow, who is on each farm and what each farm for needs to grow it specific crops.
+
+
+
+Objective 2 – Make a web application that allows the user to view their database in a user-friendly way. To do this is it will be a graphical user interface that will allow you to manage farms, crops, and workers.
+
+
+
+Objective 3 – Integrate mapping functionality into the application, this will be done using the google maps API to view their fields and field information geographically. This will optimise task allocation by providing a visual understanding of where each task is taking place which will reduce redundancy such as travel between fields as the information is on the system.
+
+
+
+Objective 4 – A login system that will store personal information and have roles depending on the user's job (manager or worker). This ensures security of personal information.
+
+
+
+Objective 5 – Farm managers and workers are unlikely to always be around a desktop, therefore ensuring that the application is mobile-friendly and able to be used in an outdoor setting is crucial, meaning the application should resize itself to fit on different screen sizes and devices. Also having multilingual support would ensure accessibility for non-English speaking workers.
+
+
+
+These objectives are SMART, each having a clear function related to task management on the farm, smaller targets and milestones. On top of this, they are achievable, with a clear goal that is relevant to the project’s aims and time-bound to the project's schedule.
+
+
+
+1.2	Review
+
+We have used a SWOT analysis to evaluate factors that may impact the development of the application. It has strengths such as streamlining the management of the farm and its workforce. Weaknesses such as requiring an internet connection. It has opportunities such as the increasing demand for automation in the farming industry. There are threats such as competition in the market from pre-existing applications. Using this analysis, we can proactively address potential obstacles to ensure our application is delivered successfully.
+
+The main stakeholders are the development team, farm managers and workers, government agencies are secondary stakeholders due to our application having to follow relevant laws and regulations.
+
+Taking inspiration from technologies like John Deere’s Operation Center (John Deere,2024), a platform for tracking and managing fields and equipment. Its use of data visualization through maps and task allocation aligns with features our project aims to incorporate.
+
+Our project aims to address global farming challenges such as task allocation, farm field management, and coordination between farmers and workers. By leveraging modern strategies, we provide a comprehensive overview of farm operations. The platform is accessible, supporting users across various devices, countries and languages.
+
+
+
+Additionally, Uber (Sarah Silbert, Lifewire, 2021) and Evri (Evri, 2024) use an online mapping API. To enable real-time tracking, route optimisation, and more accurate estimated times of arrival. Implementing this into our project will enhance the user experience by offering farm managers real-time updates, tracking of worker location, and efficient task management.
+
+1.3	Schedule and Risks
+
+Lack of clarity and miscommunication are major risks within project, setting unclear objectives and misunderstandings will lead to incomplete work or scope creep where additional work not originally needed will be done leading to uncontrolled growth of the project. This can be remedied by setting our clear goals, having clear communication as a team and having regular meetings with our supervisor.
+
+
+
+Additionally, the application is complex, combining real-time data tracking, google maps API and a farm management system. To mitigate this risk, we will allocate enough time in our schedule for testing and prototyping the development phases to make sure they work together properly.
+
+
+
+Resource limitation is another risk, due to having a small team there may be times when there is a strain on resources, especially during development. To counter this, we will distribute tasks evenly and prioritise certain tasks to make sure milestones are met on schedule.
+
+
+
+Developing a project schedule using a Gantt chart, outlines key milestones. It is designed to ensure the project has continuous progress and is completed within the given time frame.
+
+
+
+
+
+2	Legal, Social, Ethical and Professional Issues
+
+
+
+Transparency – Meaning that the individuals giving over their personal information know what their information is to be used for
+
+
+
+Accountability - Maintaining logs of every data processing activity, ensure that workers data are kept safe and secure, and ensuring compliance with ethical guidelines and requirements such as the GDPR. Regular audits are also conducted (European Union, 2016). Article 5(2) of the GDPR
+
+
+
+Equality and Fairness - Our web application is programmed to avoid bias or discrimination. Our data processing algorithms is programmed to treat all genders, races, or ethnicities equally and fairly without prejudice or bias. Our algorithm is regularly tested to ensure there are never any biased Outcomes. We follow the principle of fairness to ensure every worker is treated equally. This is according to the GDPR fairness obligation outlined in Article 5(1)(a) (European Union, 2016).
+
+
+
+Privacy and Consents – This means that the individual's personal information is protected from unauthorized access and misuse
+
+
+
+Intention – This means that the reason you are harvesting the individual's personal information is beneficial to the individual and will not be used to exploit the individual
+
+
+
+Outcomes – This means that the data holder is held accountable for the consequences of any malicious uses of the individual's personal information
+
+
+
+Handling user data, the worker’s location, record., and worker’s movement across different fields. Minimise data collection, informed consent (tell the workers what data is collected, this could be done by making them read a consent form when they create their account or something similar), transparency and accountability, transparency about data usage (what data is collected and how it is used) view data associated with them and can request changes or deletion to it.
+
+
+
+Legal considerations:
+
+
+
+Ensuring that we consider the relevant legal legislation involved with handling and storing user data is essential. As this is a UK-based project, we will be primarily focusing on adhering to the GDPR act. However, we will also follow other similar legislations, such as CCPA in the United States and PIPEDA in Canada. This is because the more regions and subsequently potential users our product can reach, the more potential there is for a larger user base and profit. To achieve this, we will be following the proceeding steps, handling data fairly, purpose limitation, data accuracy, data retention, and access control. An example of this is: only allowing ng managers to have access to comprehensive data sets whilst limiting the access of regular workers, removing data when it is out of date and or no longer necessary, and not collecting data which is not correspondent to our project.
+
+
+
+Professional code of conduct:
+
+The development of our farm management application will follow the ACM code of ethics and professional conduct. (Insert reference about ACM code of ethics https://www.acm.org/code-of-ethics) Adhering to the key principles of this is crucial in developing our application. Section 1.1 of the ACM (insert reference) sets out the importance of your application contributing to society, our application contributes as it addresses the inefficiencies of farm management. It does this by combining different helpful features into one single tool allowing for an increase in overall efficiency for farm managers, reducing time spent on manual processes. Section 1.6 of the ACM (insert reference) sets out to the commitment to ethical data use; this means that we use personal data solely for the purpose of the task assignment and monitoring task completion. This ensures that the workers’ privacy is protected and respected. Another way this could be achieved is by limiting unnecessary tracking and providing workers with transparency about data usage. Another part of the professional code is emphasising inclusivity, this means that we need to ensure the availability of our application to multiple languages and devices. This means that employees that do not speak English will be able to use the application and users do not always need to be on a desktop to use the application, it could be used on something such as a mobile phone in the field.
+
+3	Group Work Reflection
+
+A co-authored section in which you reflect on the group operation so far:
+
+    What has the team done well?
+
+    What could the team do better?
+
+    Were there any challenges to overcome?
