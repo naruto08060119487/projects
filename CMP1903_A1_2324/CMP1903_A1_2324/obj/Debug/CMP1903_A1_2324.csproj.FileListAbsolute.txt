@@ -1,0 +1,7 @@
+/home/emmanuel/RiderProjects/CMP1903_A1_2324/CMP1903_A1_2324/bin/Debug/CMP1903_A1_2324.exe.config
+/home/emmanuel/RiderProjects/CMP1903_A1_2324/CMP1903_A1_2324/bin/Debug/CMP1903_A1_2324.exe
+/home/emmanuel/RiderProjects/CMP1903_A1_2324/CMP1903_A1_2324/bin/Debug/CMP1903_A1_2324.pdb
+/home/emmanuel/RiderProjects/CMP1903_A1_2324/CMP1903_A1_2324/obj/Debug/CMP1903_A1_2324.csproj.AssemblyReference.cache
+/home/emmanuel/RiderProjects/CMP1903_A1_2324/CMP1903_A1_2324/obj/Debug/CMP1903_A1_2324.csproj.CoreCompileInputs.cache
+/home/emmanuel/RiderProjects/CMP1903_A1_2324/CMP1903_A1_2324/obj/Debug/CMP1903_A1_2324.exe
+/home/emmanuel/RiderProjects/CMP1903_A1_2324/CMP1903_A1_2324/obj/Debug/CMP1903_A1_2324.pdb

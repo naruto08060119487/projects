@@ -1,0 +1,6 @@
+/home/emmanuel/RiderProjects/algorithm assessment/algorithm assessment/bin/Debug/algorithm_assessment.exe
+/home/emmanuel/RiderProjects/algorithm assessment/algorithm assessment/bin/Debug/algorithm_assessment.pdb
+/home/emmanuel/RiderProjects/algorithm assessment/algorithm assessment/obj/Debug/algorithm assessment.csproj.AssemblyReference.cache
+/home/emmanuel/RiderProjects/algorithm assessment/algorithm assessment/obj/Debug/algorithm assessment.csproj.CoreCompileInputs.cache
+/home/emmanuel/RiderProjects/algorithm assessment/algorithm assessment/obj/Debug/algorithm_assessment.exe
+/home/emmanuel/RiderProjects/algorithm assessment/algorithm assessment/obj/Debug/algorithm_assessment.pdb
